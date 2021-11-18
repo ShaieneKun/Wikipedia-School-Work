@@ -27,4 +27,4 @@ Usage: python3.10 main.py [OPTIONS]
 
 ## License
 
-See license.md
+See LICENSE
